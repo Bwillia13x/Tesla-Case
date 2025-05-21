@@ -1,0 +1,625 @@
+
+Okay, here is the entire text from the document "714413.pdf":
+--- PAGE 1 ---
+ERIC VAN DEN STEEN
+HARVARD BUSINESS SCHOOL
+9-714-413
+REV: NOVEMBER 12, 2020
+Tesla Motors
+"Tesla is in California, so it is not April Fool's yet!" tweeted Elon Musk, CEO of Tesla Motors, around 10 PM PT on March 31, 2013. "First profitable Q for Tesla thanks to awesome customers & hard work by a super dedicated team"¹ he had tweeted a few minutes earlier. And indeed, on May 8, Tesla announced a net income of more than $10mln on $560 mln in sales. ² Tesla had outsold both Nissan and GM in electric cars in the U.S.³ Its Model S had sold more than the BMW 7 and Audi A8 combined.⁴ Tesla raised its Model S sales target for its first full year from 20,000 to 21,000 cars. ⁵ Over the next three months, its stock price almost tripled.⁶   
+In its 10 years since founding, Tesla had launched both a high-end limited edition "Tesla Roadster" and its "Model S" production car, and was now taking reservations on its upcoming "Model X" electric crossover SUV. Despite a public controversy about its range, the Model S had received the coveted Car of the Year award and earned the highest rating that Consumer Reports ever gave to a car, an astonishing feat for a company that was only at its second car. While some of its most visible EV competitors went bankrupt or halted production, Tesla became profitable. Elon Musk wanted Tesla to be a mass manufacturer of electric cars. Becoming profitable meant that that goal was within reach. Or was it not?   
+The Car Business
+America was sometimes said to have a love affair with cars. In 2011, American households owned 1.17 vehicles per licensed driver, with almost 20% of households owning three or more cars. ¹⁰ The average trip was less than 10 miles, with less than 1% of trips exceeding 100 miles. ¹¹ Households on average spent more than 15% of their income on cars, gasoline, and related expenses. ¹²   
+At more than 3% of GDP and 1.7 million employees, the car business-manufacturing, distribution, and service-was one of the largest industries in the U.S.¹³ It was also concentrated, with the three largest car companies making up 49% of the U.S. market in 2012, though that was down from 98% in 1969.¹⁴ Despite this high concentration, two of the three large U.S. car manufacturers went bankrupt in 2009. Since WWII, no U.S. firm had successfully entered the car industry with a mass-produced car, until (maybe) Tesla. Professor Eric Van den Steen prepared this case. This case was developed from published sources. Funding for the development of this case was provided by Harvard Business School and not by the company. HBS cases are developed solely as the basis for class discussion, Cases are not intended to serve as endorsements, sources of primary data, or illustrations of effective or ineffective management. Copyright © 2014, 2015, 2020 President and Fellows of Harvard College. To order copies or request permission to reproduce materials, call 1-800-545-7685, write Harvard Business School Publishing, Boston, MA 02163, or go to www.hbsp.harvard.edu. This publication may not be digitized, photocopied, or otherwise reproduced, posted, or transmitted, without the permission of Harvard Business School. Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 2 ---
+2
+714-413
+Tesla Motors
+Car Design ¹⁵
+A car was a complex marvel of technology with thousands of parts, often sourced from more than a thousand suppliers. ¹⁶ A typical car consisted of a number of subsystems: 1) The powertrain made the car move and was the most complex part of the car. It consisted of the engine, the transmission, and a number of auxiliary systems. The engine in a conventional car (CVs) was an internal combustion (IC) engine that converted gasoline into power in the form of a fast-rotating axle. Because of its size and weight, the engine was typically placed above the front wheel axis, and then required a special design to prevent it from being pushed into the car's passenger cabin in a crash. ᵃ The transmission transformed the rotation of the engine axle into an appropriate rotation speed for the wheels through a variable set of gears. This was necessary because IC engines had a limited speed range in which they were effective, losing power and stalling below 700 rpmᵇ while topping out at 7000 rpm. ¹⁷ The transmission also permitted to disconnect the engine from the wheels when the car was standing still to allow the motor to keep running. Transmissions were complex and required their own lubrication. In most cars, the transmission powered the front wheels. Such front-wheel drive cars had more conservative handling and were cheaper to make than rear-wheel drive cars, such as BMW and Mercedes, which required a costly and space-taking connection between the motor in the front and the rear wheels. The auxiliary systems included fuel storage and injection system, the exhaust system with catalyzer to eliminate polluting fumes, the cooling system to prevent the engine from overheating, the oil system to lubricate the moving (and hot) parts of the engine, and the-typically electronic-control system to control the engine and all related systems. 2) The chassis was the foundation of the car and included a supporting frame, wheels, steering system, and braking system. 3) The body of the car was the space where passengers resided and included the dashboard and the air conditioning as some of its more complex elements. Given this complexity, cars were difficult and expensive to design. Developing a completely new car would involve hundreds of engineers and was estimated to cost between $1bn for a regular car-excluding expenses for retooling and factory modifications-up to $6bn for a global car like Ford's Mondeo but then including retooling and plant modifications. Such new car design would take four to five years, though simpler redesigns of an existing model were often done in less than a year. ¹⁸   
+Car Manufacturing
+Cars were manufactured in huge assembly plants, often the size of more than 50 football fields. A traditional assembly plant would reach its minimum efficient scale at between 100,000 and 250,000 cars per year and a plant of such size could cost as much as $1-$2 billion. ¹⁹ A typical car assembly plant would consist of a body shop, a paint shop, and the assembly line. ²⁰ In the body shop, sheets of metal were stamped or pressed into panels that were then welded together by robots to a car body. The car body and the doors got painted in the paint shop, after which the assembly line assembled the car by attaching all parts to the body. In a traditional plant, the assembly line was a slow-moving chain from which the unfinished cars were suspended and that moved the car bodies past stationary assembly stations where workers added, in a very particular sequence, all the necessary parts. As there were a lot of interactions among the different parts of a car, an error early in the assembly process could lead to cumulative problems down the line. Cars that needed repairs were ᵃ Many cars were designed to ensure that the engine would slide under the passenger cabin in case of a serious crash. ᵇ Rpm stands for "rotations per minute" and measures the rotation speed of an axle. Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation. \--- PAGE 3 --- Tesla Motors 714-413 repaired in a repair zone at the end of the assembly line, which could take up more than 10% of plant floor space in a traditional assembly plant. ²¹ Almost all assembly plants would produce multiple versions of the same car through each other on the same line, with a sophisticated control system that indicated to each station which parts to add to the particular car at the station. Sometimes even two completely different car models were produced on the same line. But building multiple models on the same line really challenged the production design as work would often become unbalanced; i.e., some assembly stations would have much more work than others. ²² To produce a broader mix of cars required a more flexible production system, which typically had less scale economies,²³ leading to plants with minimum efficient scale between 50,000 and 100,000 cars per year. ²⁴ Cars were not only expensive to design but also expensive to make, with manufacturing cost making up about 80% of a car's final selling price (Exhibit 1). Moreover, car manufacturing had a considerable learning curve. It was estimated, for example, that both the number of defects and the assembly time in a particular plant dropped by about 70% over the first two months that a new car model went into production with a 90% experience curve for at least the first year. ⁶ ²⁵ Across the industry, average assembly time dropped by about 3% per year. ²⁶ Car Marketing, Distribution, and Service Car producers were among the heaviest advertisers in business. GM and Ford spent respectively US$ 4.2 bln and US$ 3.9 billion on advertising in 2010, which exceeded Coca Cola's US$ 2.9 bln. ²⁷ The estimated brand value of companies like Toyota, Mercedes-Benz, and BMW was estimated at around US$ 30 bln each, which was more than Disney at US$ 27 bln or Pepsi at US$ 16 bln, while Ford's brand value was estimated at around US$ 8 bln, and Nissan and Porsche at around US$ 5 bln each ²⁸.   
+Cars were sold through dealerships. ²⁹ A dealership franchise had a mutually exclusive relationship with a car manufacturer: in exchange for the dealer being exclusive to one manufacturer-though potentially selling multiple brands of the same manufacturer-it would get an exclusive territory for one or more of the manufacturer's brands. (Some dealer companies would own dealership franchises for different brands, but these franchises would be physically separate standalone entities.) A car dealer would market cars through advertising, a showroom, and salespeople; sell the cars and potentially finance them; service the car; and provide repairs. Some observers had questioned, however, whether it was optimal to combine sales and service in one entity. ³⁰ Exhibit 2 captures the typical revenue and cost structure of a U.S. dealership. New car sales had limited profitability but brought in business for the far more profitable service and repairs business. Dealers would also make profits from ancillary offerings at the time of sale, such as financing, special coatings or other treatments, and pre-paid service plans. Ford and GM both had more than 4,000 dealerships in 2011 versus about 1,600 for Toyota. ³¹   
+Given their complexity, cars needed regular maintenance and occasional repairs. The engine with its moving parts exposed to heat and large forces, was the focus of most maintenance and repair. Indeed, the most frequent maintenance task was changing the motor oil. Most manufacturers recommended change intervals of 7,500 or 10,000 miles, although dealers and oil service centers sometimes recommended changes at 3,000 or 5,000 miles. ³² In terms of repairs, 7 to 9 out of 10 repairs were related to the powertrain. ³³   
+ᶜ A 90% experience curve means that the cost decreases to 90% of its former value, ie., decreases by 10%, every time the cumulative production doubles. ³ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 4 ---
+714-413
+Tesla Motors
+Electric Cars ³⁴
+Electric cars were popular in the late 1800s. In fact, the first speeding ticket was issued to an electric car (driving 12 mph)³⁵ and the Hartford Electric Light Company even operated an exchangeable battery service. But electric cars were quickly overtaken by the internal combustion engine. The interest in electric cars increased again sharply in the late 20th century when oil prices shot up and when improvements in battery technology increased their range. The main difference between an electric car and a conventional car was in its powertrain, which consisted of an electric motor and a battery pack, but that difference had implications for the rest of the car's design and manufacturing, for example, through its greater simplicity (Exhibit 3). The electric motors that were used in cars were fairly conventional motors that had been widely used for more than a century. In contrast to IC engines, such electric motors could develop a strong torque (rotational force) at a very broad range of speeds. As a consequence, electric motors could be used without a transmission. They were also much smaller and didn't need the motor oil and cooling that IC engines required (though EVs needed some form of cooling for the battery). The lack of heat, however, necessitated some other way to warm up the cabin in cold weather, such as an electric heater or a reversible air conditioning. A nice feature of an electric motor was also that it could function as a brake and then generated electricity to charge the battery. (Converting the car's energy back into electricity was the key feature of hybrid cars such as the Prius.)   
+The battery was the most expensive, heaviest, and most challenging component of an EV. The Nissan Leaf's battery was estimated to cost about US$ 15,000³⁶ and its weight equaled that of an IC engine. ³⁷ Early EVs and hybrid vehicles had used a variety of battery technologies, but all recent electric cars used Li-Ion batteries because of their high capacity per weight. Li-Ion batteries had been introduced in the early 90's and powered most electronics, including laptops (Exhibit 4). A complete EV battery would be assembled out of a large number of battery cells (similar to consumer batteries but typically considerably larger) that were combined into modules and then further into the battery pack. The modules and pack played an important role as they monitored and managed the batteries both for efficiency and for safety, controlling for example charging, balancing, usage, and temperature. Exhibit 5 captures the cost structure of a newly developed EV battery, like Nissan Leaf's. Costs decreased by about 10% per year between 2009 and 2012.³⁸ The experience curve for Li-Ion batteries was estimated to be between 85 and 90%. ³⁹ Some also expected a rush to build capacity, leading to overcapacity from 2015 onwards. ⁴⁰ There was some speculation on new battery technologies that might replace Li-Ion, but these seemed still far away. ⁴¹ Li-Ion itself, however, was in fact a family of battery technologies with new variations being developed continuously. In terms of design, all-electric passenger vehicles came in two types: existing cars that were converted to electric, like the Ford Focus Electric, and cars that were designed from the ground up as an electric car, like the Tesla and the Leaf. Converted cars could use the design and production infrastructure of the CV from which they were derived but did not leverage the specific characteristics of the electric powertrain. For example, converted cars typically put the battery and motor where the IC engine used to be, whereas in both the Nissan Leaf and Tesla S the battery pack was part of the floor of the passenger cabin. Not only did this free up space both inside the cabin and for cargo storage, it also considerably improved the handling of the car as it gave the car a low center of gravity. In particular, with the heavy IC engine mounted above the front wheels of the car, conventional cars had a high center of gravity and hence tended to swing or sway a bit when turning. Conventional cars were also more complex than EVs.   
+PENGFEI LI from 5/5/2025 to 6/17/2025. Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by Use outside these parameters is a copyright violation.   
+--- PAGE 5 ---
+Tesla Motors
+714-413
+Governments actively promoted the adoption of EVs to combat pollution, smog, and climate change. One measure was direct tax-subsidies for the purchase of an EV. In 2013, the U.S. federal government gave a $7,500 tax credit for the purchase of EVs such as the Leaf or the Model S. Individual states often gave additional incentives. California, for example, gave another 2500purchaserebate,andgaveEVsfreeaccesstoHOVlanesuntil2015.Somestates,includingCalifornia,alsorequiredthataminimumpercentageofacarmanufacturer′sfleetsaleswerezero−emissionvehicles(ZEV).[cite:439]ManufacturersthatfellshortcouldbuyZEVcreditsfromotherswhowereabovethemandatedminimum.[cite:440]TheruleencouragedtheproductionofEVsdirectlyandbygivingproducersofEVsanextrasourceofincome.[cite:441]42However,thepriceofsuchcreditswasexpectedtodropquicklyasallproducersstartedsellingmoreEVs.[cite:442]43Therewere,however,alsoimportanthurdlestoadoption.Thesefellintotwobroadcategories.[cite:443]44ThefirstwereissuesrelatedtoEVsbeinganewtechnologywithconsiderableuncertaintyaboutlongevity,resalevalue,andsafety.[cite:444]Thesecondweredifferentsourcesof"rangeanxiety,"whichincludedthelimitedrangeofmostEVs,thetimeittooktochargeacar,andtheearlylackofchargingstations.[cite:445]Thelatterissuewasbeingresolved,asmanycompaniesandpublicentitiesstartedofferingbothprivateandpublicchargingstations.[cite:446]TheDepartmentofEnergy,forexample,listedmorethan6,000publicchargingstationsin2013.45Somecompaniesalsoofferedfreechargingspacestotheiremployees.[cite:447]Onanyregularoutlet,EVswouldrechargebetween5and10milesofrangeperhour.[cite:448]Buthigher−amphouseholdoutletscoulddoubleortriplethat,whileTesla′sSuperchargercouldcharge150milesofrangein30minutes.[cite:449]46Toreducerangeissues,Teslaalsooperatedanetworkofmorethan15Superchargerstationswherecustomerscouldchargetheircarforfree.[cite:450]Italsointroducedabatteryswappingservicethatcouldexchangeadepletedbatteryforachargedoneinabout90seconds.[cite:451]47Toreduceworriesaboutresalevalue,finally,TeslaguaranteedaresalevaluepeggedtosimilarBMWandMercedesmodels,backedbyElonMusk′spersonalfortune.[cite:452]48NissanLeaf49In2007,NissanstartedthemostambitiousEVprojectbyamasscarproducer:theNissanLeaf.[cite:453]CarlosGhosn,CEOofNissananditsalliancewithRenault,believedthatEVswouldcapture10 5.6 billion in the project, including US$ 1.7 billion for modifying an assembly plants and building a battery plant in Tennessee and another US$ 650 million for doing the same in the U.K. ⁵¹   
+The Leaf was a fully electric mid-sized family sedan with front-wheel drive that was, in terms of design and size, in the same class as the Ford Focus or the Volkswagen Golf (Exhibit 6). The Leaf was designed from the ground up as an electric car to leverage the benefits of the EV technology. In fact, the technology was sufficiently different that Ghosn expected to rely more on outside hires rather than on Nissan's experienced IC engineers. ⁵² Developing the car took three years, which was much faster than Nissan's standard four-year development cycle, despite being a completely new car. ⁵³   
+Nissan was also focused on developing new battery technology. Due to its first-mover status in the mass EV market, Ghosn saw an opportunity to build a lead and become a supplier to others in the industry in a market that was expected to grow to US$ 25 billion by 2020 (though estimates varied from US$ 5 billion to US$ 60 billion, depending on the scenario). ⁵⁴ To develop the battery, Nissan started a joint venture with NEC, which did not have a large battery business but had skills in some key technologies. Nissan Leaf's Li-Ion battery, which consisted of 192 cells, had a cost structure as in Exhibit 5-after appropriate adjustments-and used electric heating and air-cooling for heat control. ⁵ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 6 ---
+6
+714-413
+Tesla Motors
+There were, however, some isolated but well-published complaints from customers in Arizona that their batteries lost capacity quickly, forcing Nissan to institute a warranty system. ⁵⁵   
+The Nissan Leaf was launched at the very end of 2010 to great reviews. While it sold only 38 cars that year, Ghosn projected annual sales of 500,000 by 2013, which is the level where he believed the Leaf could be profitable without subsidies. ⁵⁶ Worldwide sales for 2011 and 2012, however, were only about 21,000 and 26,000 respectively. ⁵⁷ When the 2012 sales failed to meet downward revised expectations, Nissan replaced the head of its EV unit. ⁵⁸ In January 2013, Leaf production began in the Tennessee plant, where it shared the production line with the Altima mid-size sedan and Maxima full-size sedan. ⁵⁹ At the same time, Nissan reduced the price for the base model from $35,200 to 28,800.60Salesthroughmid−2013nearlydoubledfromtheyearbeforeandovertookGM′sVoltplug−inhybrid.[cite:470]InAugust2013,GMloweredthepriceofthebasemodelofitsVoltplug−inhybridfrom39,995to34,995inamovethatwaswidelyperceivedasacompetitiveresponsetoNissan′spricecut,thoughGhosndidn′tseethecarsascompetitorsastheVoltwasahybridratherthananEV.61FiskerFiskerAutomotivewasaproducerofelectricsportscar,whichwasstartedbyHenrikFisker,acardesignerwhohadworkedontheModelSbeforefoundingFiskerAutomotive.[cite:471]Fiskerdesigneditsowncarbody,butoutsourcedalmosteverythingelse,includingthedesignandmanufacturingofthepowertrain.[cite:472]62InMarch2013,Fiskerwasrumoredtobepreparingbankruptcyafterhavingstoppedproductioneightmonthsearlier.[cite:473]63TeslaTeslaMotorswasfoundedin2003andnamedafterNikolaTesla,oneoftheinventorsoftheelectricACinductionmotor.[cite:474]ThefoundingteamincludedElonMuskandTesla′sCTO,JBStraubel.[cite:475]Muskprovidedmostofthecapitalandbecamechairmanoftheboardandheadofproductdesign.[cite:476]In2007,whenTeslawasfacedwithproductdelaysandquicklydwindlingcapital,ElonMusktookoverasCEOandreducedheadcount.[cite:477]MuskquicklybecamethefaceofTesla.BorninSouthAfrica,withanengineeringandaneconomicsdegreefromtheU.S.,hesoldhisfirststart−up,Zip2,formorethanUS300 million to Altavista. ⁶⁴ He then co-founded Paypal, of which he was CEO and chairman, and sold the company in 2002 to eBay for US$ 1.5 billion. The sale gave Musk the capital to pursue his dreams. Over the next years, he started the space transportation company SpaceX, became the largest shareholder and chairman of SolarCity, a provider of solar power systems, and co-founded Tesla. None of Tesla's founders had a background in the car industry and neither did its original engineering team. ⁶⁵ Over time, Tesla assembled a team that was a mix of specialists from the car industry and people with their roots in Silicon Valley (Exhibit 7). Musk believed that Tesla's Silicon Valley roots gave it an important edge when it came to this kind of innovation. ⁶⁶   
+Tesla Roadster
+Tesla's first production car-and the first-ever high-end production EV - was the Roadster (Exhibit 8). Tesla designed and produced the car's powertrain in-house in California and then combined it with a body and chassis-derived from the Lotus Elise-that was co-designed by Lotus and Tesla and assembled by Lotus in the U.K. ⁶⁷   
+The US$ 109,000 Roadster was a high-end sports car that could accelerate from 0 to 60mph in less than four seconds, which was faster than a Ferrari Testarossa and in the same range as more recent
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 7 ---
+Tesla Motors
+714-413
+Ferrari models, and had a range of nearly 250 miles. ⁶⁸ The car received a lot of press coverage. But instead of focusing on its environmental benefits, reviewers used expressions like "head-turner," "jaw-dropper," "future of the automobile," and "profoundly humbling to just about any rumbling Ferrari or Porsche that makes the mistake of pulling up next to a silent, 105 mpg Tesla Roadster at a stoplight." ⁶⁹ Some observers thought that it changed how people thought about electric cars. ⁷⁰   
+In developing the car battery, Tesla made a surprising choice. Instead of developing a new special-purpose battery for cars from scratch, as Nissan and other car manufacturers were doing and as Fisker had outsourced to A123, it assembled its rechargeable battery pack from slightly modified industrial-grade commodity Lithium-Ion batteries in the 18650 form factor, supplied by Panasonic. ⁷¹ The 18650 form factor was slightly larger than an AA battery and was the most commonly used battery for, e.g., laptops. The number of cells was an order of magnitude larger than the Nissan Leaf: almost 7000 cells versus the Leaf's 192. Tesla and Panasonic cooperated to modify the design for car usage, paying particular attention to safety and the risk of overheating and fire. Tesla also designed a liquid cooling system to keep the batteries on their optimal temperature. While the battery pack and powertrain were originally assembled and tested in Thailand, Tesla moved the operations to California because it felt that it was better to have engineering and manufacturing under one roof. ⁷² The powertrain design was proprietary and Tesla did not reveal much about it. Per its contracts with Lotus, Tesla built 2500 Roadsters. When the contract ran out in 2012, Tesla stopped taking orders. ⁷³ There were rumors that Tesla would introduce a successor by 2014 or 2015, but the company did not make any commitments, instead focusing on its Model S and Model X.⁷⁴ Model S   
+Tesla's first truly mass-produced car was the model S (Exhibit 8), a high-end electric car meant to compete with the Audi A6 and BMW 5 series. (Exhibit 9 compares Model S, BMW 528i, and Nissan Leaf.) The Model S could accelerate from 0 to 60mph in under 6 seconds, which was 10% faster than a BMW 5 and almost twice as fast as the Nissan Leaf. ⁷⁵ The car was launched in June 2012 and soon started getting rave reviews, including being selected as the 2013 Car of the Year and receiving the highest Consumer Reports rating ever. Design Tesla designed the Model S completely in-house, at a cost of about 0.5bln7.[cite:502]ThepowertrainwasanevolvedversionoftheRoadster′s.TheTeslaShadrear−wheeldrive,likeBMWandMercedes,butavoidedtheextracoststhatrear−wheel−drivetypicallyimposed,asthesmallelectricmotorcouldbepositionednexttotherearaxis.[cite:503]Forthebattery,TeslausedanimprovedversionofthetechnologyithaddevelopedfortheRoadster.[cite:504]Tesla′s85kWhbattery,forexample,consistedofmorethan7,000cellsinthe18650formfactor.[cite:505]77Thenewbatterywasestimatedtohavedoubletheenergydensity−energystorageperkgofbattery−whichreducedtheweightofthecarandpresumablyalsousedlessmaterial.[cite:506]78Tesla′s60kWhbatterypackwasestimatedtocostaboutUS 15,000-US$ 18,000, which at $250-$300 per KWh was less than half the estimated cost per KWh for the Nissan Leaf. ⁷⁹ For the Model S, the batteries were assembled into a rigid flat pack that formed the bottom of the car (Exhibit 3). This gave the car great handling and exceptional rigidity, allowing Tesla to be the only car to offer an all-glass panoramic roof. ⁸⁰ (Traditional convertible cars needed additional reinforcement to compensate for the loss in rigidity from removing the roof.)   
+The car also had a number of other new and unique design features. ⁸¹ Being developed in Silicon Valley, the car was controlled by software that could be wirelessly updated through its cellular connection and allowed the driver to easily customize the car's behavior, including suspension and steering behavior. The level of electronic integration impressed other car companies and was   
+⁷ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 8 ---
+8
+714-413
+Tesla Motors
+considered a benchmark. ⁸² The car also had a 17" touchscreen in the middle console to control almost all its functions, from air conditioning and lights to entertainment system. This reduced the need for buttons or other manual controls, simplifying the dashboard and other parts (Exhibit 10). The car also had no traditional key but a wireless fob. When the driver approached the car, the car automatically unlocked and the door handle, which was retracted, slid out. The car started when the driver buckled in. Another unusual feature was that the brake lights lit up based on how much the car was slowing. Many of the car's components, including its suspension, were custom-designed rather than standard components available off the shelf. ⁸³ Analysts worried that this might put Tesla at a cost disadvantage. ⁸⁴   
+Manufacturing In contrast to the Roadster, Tesla decided to bring the full assembly of the Model S in-house. Observers questioned Tesla's ability to do so successfully, given its lack of experience in car design or assembly, an issue that Tesla itself openly recognized. ⁸⁵ But the crisis in the car industry played in its favor. It purchased the massive and recently idled NUMMI plant in Fremont, California - formerly a joint venture between GM and Toyota which at its height produced 500,000 cars per year - from Toyota for $42 million, a deal that was financed through a $50 million capital injection by Toyota and that was part of a broader cooperation. ⁸⁶ While Tesla' current output was 21,000 cars per year, VP of manufacturing Passin estimated that the plant could reach 100,000 cars per year without really stretching the equipment. ⁸⁷ Tesla also bought much of its production equipment at a discount from struggling manufacturers. Musk gave the example of a $50 million hydraulic stamping press that Tesla acquired for $6 million from "a car manufacturer in Detroit."⁸⁸ According to some estimates, Tesla spent less than a third of the $1bln it would normally cost to get such a plant operational. ⁸⁹ Tesla also brought a large part of its parts production in-house, making e.g. 90% of Model S-specific plastic parts on its injection molding machines, which was unusual for a plant with low volume, and manufacturing its complete powertrain in-house. ⁹⁰   
+Sales and service Instead of independent dealerships like other car manufacturers, Tesla built a network of company-owned stores with salespeople on salary rather than on commission. Musk argued that "existing franchise dealers have a fundamental conflict of interest [as it is] impossible for them to explain the advantages of going electric without simultaneously undermining their traditional business."⁹¹ This approach put Tesla in conflict with the dealership lobby, which had pushed many states to pass laws requiring car companies to sell through independent dealerships recognized by the dealership association. In some of these states, Tesla was able to sell online from other states. But the Texas legislature had passed a law that did not allow Tesla to do so and the North Carolina legislature almost passed a similar law. ⁹²   
+In marketing the Model S, Tesla stressed speed, comfort, and handling, before talking low emissions. It also focused on the potential cost savings from gas and reduced service and repairs, ⁹³ While estimates varied widely, the total cost of ownership of the Model S seemed similar to that of the BMW 5-series with which it competed, with higher initial price but lower gas and maintenance cost. ⁹⁴ Tesla's service operations were independent from its sales network, unlike the dealership structure of traditional car manufacturers. For the annual check-up or repairs, Model S owners had a number of options: go to a licensed Tesla service center, call up a mobile service and repair team ("Tesla Rangers"), or have their car exchanged for a loaner through Tesla's valet service. ⁹⁵ Early on, there were reports of problems with handles and windscreen wipers, but Tesla was able to resolve these with a wireless software update. ⁹⁶   
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 9 ---
+Tesla Motors
+714-413
+Drivetrains
+Tesla also sold electric powertrains to other car manufacturers and provided design services for electric powertrains. It had developed and was producing powertrains for the Toyota Rav 4 EV, in a deal that was expected to generate about $100 million between 2012 and 2014.⁹⁷ A similar deal with Daimler might be worth almost $300 million. ⁹⁸   
+Racing on
+Tesla was off to a great start in 2013. In the first half of 2013, it sold 10,500 model S cars and was expanding sales to Europe. Musk said that Tesla planned to be shipping 40,000 Model S per year by the end of 2014.⁹⁹ Tesla had also started taking reservations for its next vehicle, the Model X. The Model X (Exhibit 11) was a cross-over SUV with some unique features, such as wing doors and dual motor all-wheel drive. ¹⁰⁰ The model X would share the powertrain and many components with Model S. ¹⁰¹ Tesla had been profitable in the first half of 2013 and by September its market cap was about a quarter of that of BMW. (See Exhibits 12 through 14 for financials of Tesla and of BMW for comparison.)   
+But Elon Musk was clear that he wanted to go further and build a lower end mass-production EV. In a blog post titled "The Secret Tesla Motors Master Plan (just between you and me)," he stated that the plan was to "[b]uild sports car, [u]se that money to build an affordable car, [u]se that money to build an even more affordable car." ¹⁰² He had explicitly stated that this rumored Gen 3 model would be comparable to a BMW 3 and carry a price of about $35,000,¹⁰³   
+Was Gen 3 the logical next step or a bridge too far? And was Tesla here to stay to become the first U.S. firm since WWII to successfully enter the car industry with a mass-produced car? ⁹ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 10 ---
+714-413
+Exhibit 1 Estimated Cost Structure for a $25,000 IC Car
+,% of Car Price
+Production
+,
+Materials and parts
+,50
+Body
+,18
+Chassis
+,14
+Powertrain
+,18
+Mfg & assembly cost
+,10
+Production overhead
+,
+Maintenance & operations
+,8
+R&D
+,7
+Depreciation & Amortization
+,5
+Warranty
+,2
+General & Admin
+
+Transport
+,2
+
+2
+Marketing & Sales
+,5
+Net profit & tax
+,4
+Dealer gross margin
+,5
+Price
+,100
+Tesla Motors
+Source: Casewriter estimates based on R.M. Cuenca et al. "Evaluation of Electric Vehicle Production and Operating Costs," Argonne National Laboratory working paper ANL/ESD-41, November 1999; Anant Vyas et al. "Comparison of Indirect Cost Multipliers for Vehicle Manufacturing," Argonne National Laboratory technical memorandum, April 2000; and McKinsey Global Institute, "Multinational Company Investment in Developing Economies," McKinsey Global Institute, October 2003.   
+Exhibit 2 Typical Revenue and Cost Structure of U.S. Dealer
+,
+Share of
+Gross Margin
+
+% of Sales
+New-vehicle salesᵃ
+,
+56%
+
+30%
+Used-vehicle salesᵃ
+,
+26%
+
+32%
+Parts and Service
+,44%
+
+12%
+Gross profit
+,14%
+
+Payroll
+,%
+
+8
+Advertising
+,
+1%
+Rent & Eq
+,
+1%
+Other
+,2%
+
+Net profit before taxes
+,
+2%
+Source: Casewriter, based
+,Profile," NADA, December
+2012.
+
+Financial
+
+NADA "Dealership
+on
+
+/www.nada.org/NR/rdonlyres/CA8D6479-43DC-4DD6-9F6D-E7C76DED7413/0/
+NADA Dealership_Financial_Profile_122012.pdf and NADA "State of the Industry Report 2013," NADA, 2013, www.nada.org/Publications/NADADATA/2013/, all accessed August 2, 2013.
+New-vehicle and used-vehicle sales and gross margin included service contracts and fees from the sale of finance & insurance. The latter two comprised respectively 15% and 21% of the gross margin on new and used vehicles. ¹⁰ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 11 ---
+Tesla Motors
+Exhibit 3 Powertrain of Conventional Internal Combustion Engine and Tesla Model S
+Source: www.stock-automotive-illustration.com/Generic-car-system-files/engine-drive-sus-line.jpg and upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tesla_Motors_Model_S_base.JPG/800px-Tesla_Motors_Model_S_base.JPG. ¹¹ 714-413   
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 12 ---
+714-413
+Exhibit 4 Litihium-Ion Battery Market
+Tesla Motors
+,Annual Sales
+
+(US$ bln)
+,Cumulative
+Sales
+(US$ bln)
+,Consumer
+,Usage Share (%)
+
+Industrial
+,Automotive
+2010
+,10.6
+,75.6
+,,,
+2012
+,11.7
+,98.5
+,64
+,22
+,14
+2016
+,22.5
+,172.8
+,52
+,23
+,25
+Source: Casewriter analysis based on Malavika Tohani, "Global Lithium-Ion Battery Market," Frost & Sullivan, February 2013 and Frost & Sullivan, "World Lithium Battery Markets," Frost & Sullivan, July 1998, accessed May 26 2013
+Exhibit 5 Cost Structure of Newly Developed Li-Ion Battery of 24KWh
+Cost ($/KWh)ᵃ
+Variable Cost
+
+500
+Fixed Cost
+
+700
+Source:
+
+Casewriter estimates based on data from the following sources: Haresh Kamath, ""Lithium Ion Batteries for Electric
+Transportation: Costs and Markets,"" EPRI presentation, September 22, 2009, www.arb.ca.gov/msprog/zevprog/.../
+presentations/kamath.pdf, accessed August 10, 2013; Andreas Dinger et al., ""Batteries for Electric Cars,"" BCG Focus,
+www.bcg.com/documents/
+2010,
+file36615.pdf, accessed August 10, 2013; Mike Ramsey, ""Nissan Says Leaf Electric Will Be Profitable With U.S. Plant,""
+Wall
+Street
+Journal,
+2010,
+13,
+March
+
+http://online.wsj.com/article/SB10001424052748704635204575242382820806878.html, accessed August 4 2013.
+ᵃ Variable and fixed are relative to the number of units manufactured per year. The data are based on annual sales of 10,000 units and cumulative sales of 20,000 units.   
+Exhibit 6 Nissan Leaf
+Source: upload.wikimedia.org/wikipedia/commons/2/22/2013_Red_Nissan_Leaf_SL..JPG. ¹² Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 13 ---
+Tesla Motors
+714-413
+Exhibit 7 Selected Prior Experience of Part of Tesla Motors Management Team
+Elon Musk: Co-founder, CEO, and Product Architect Co-founder, CEO, and Chairman of Paypal. Co-founder of Zip2.   
+JB Straubel: Co-founder, СТО CTO and Co-founder of aerospace firm Volacom, Propulsion engineer at Rosen Motors (working on the combination of micro-turbine and flywheel)
+Deepak Ahuja, CFO Controller of small cars development at Ford, CFO of Ford South Africa, Engineer at Kannametal
+Franz von Holzhausen, Chief Designer Director of Design Mazda North America, Design Director GM
+George Blankenship, VP Sales and Ownership Experience VP of Real Estate at Apple, VP Retail Strategy GAP
+Gilbert Passin, VP Manufacturing General Manager Production Engineering (West Coast) Toyota North America, Chief Production Engineer future Corolla, VP of Manufacturing at Toyota plant, VP operations Mac
+Arnnon Geshuri, VP HR Chief Staffing Architect at Google, VP HR at E*Trade Financial   
+Source: Casewriter, based on Tesla Motors, "Executives," Tesla Motors Website, http://www.teslamotors.com/executives, accessed August 10, 2013.
+Exhibit 8 Tesla Roadster and Model S
+Source: http://upload.wikimedia.org/wikipedia/commons/3/3a/Roadster_2.5_windmills_trimmed.jpg and http://upload.wikimedia.org/wikipedia/commons/9/94/Model_S_driving.jpg. ¹³ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 14 ---
+¹⁴
+714-413
+Exhibit 9 Comparison of Tesla Model S, Nissan Leaf, and BMW 528i
+Tesla Motors
+,Tesla Model S
+,Nissan Leaf
+,BMW5
+MSRP (after tax credits in CA)
+,61,070
+,19,650
+,48,725
+Time 0-60 mph
+,5.6
+,10.3
+,6.1
+Horsepower (5000 rpm)
+,302
+,110
+,240
+Range (miles, EPA)
+,208
+,75
+,N/A
+Volume cu ft)
+
+(
+,120
+,116.4
+,116
+Cargo capacity with all seats (cu ft)
+,26.3
+,24
+,14
+Max cargo capacity (cu ft)
+,63.4
+,30
+,14
+Drive
+,Rear wheel drive
+,Front wheel drive
+,Rear wheel
+drive
+Safety rating NHTSA (on 5)
+,5
+,4
+,5
+Sum of subratings NHTSA (on15)
+,15
+,12
+,14
+Consumer reports rating (on 100)
+,99
+,78
+,81
+Annual fuel cost ($/15000miles)
+,468
+,384
+,2112
+U.S. sales Jan-June 2013
+,10,500
+,9,839
+,25,891
+Source: Casewriter, using data from Wikipedia, "BMW 5 Series", "Telsa Model S," "Nissan Leaf," wikipedia.com, op cit., accessed August 12, 2013; Tesla Motors, "Specs" Tesla Motors website, http://www.teslamotors.com/models/specs, accessed August 12, 2013; Edmunds.com, "Compare cars," edmunds.com, www.edmunds.com/car-comparisons/, accessed August 12, 2013; Consumer Reports, "Profiles," Consumer Reports, April 2013; goodcarbadcar, "Sales stats," https://www.google.com/search?q=goodcarbadcar.com, www.goodcarbadcar.net/p/sales-stats.html, accessed August 12, 2013; Safercar.gov, "5-Star Safety Ratings," safecar.gov, www.safercar.gov/Vehicle+Shoppers/5-Star+Safety+Ratings/2011-Newer+Vehicles, accessed August 12, 2013.   
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 15 ---
+[Images comparing the dashboard of a Nissan Leaf and a Tesla Model S. The Tesla dashboard features a large central touchscreen.] Tesla Motors
+Exhibit 10 Dashboard of Nissan Leaf and of Tesla Model S
+Source: image.motortrend.com/f/oftheyear/car/1201_2012_motor_trend_car_of_the_year_contenders_and_finalists/35700616+w799+h499+cr1+ar0/2012-Nissan-Leaf-dash-view.jpg and http://stwot.motortrend.com/files/2013/04/2012-Tesla-Model-S-Dash.jpg. ¹⁵ 714-413   
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 16 ---
+¹⁶
+714-413
+Exhibit 11 Tesla Model X
+Source: upload.wikimedia.org/wikipedia/commons/3/3a/Tesla_Model_X_Geneva_2012_trimmed.jpg.
+Exhibit 12 Income Statement Tesla Motors (in US$ thousand)
+,H1 2013
+,2012
+,2011
+,2010
+Revenues
+,966,931
+,413,256
+,204,242
+,116,744
+Car Sales & Powertrains
+,847.531
+,372,756
+,201,542
+,113,944
+Regulatory/ZEV credits
+,119,400
+,40,500
+,2,700
+,2,800
+Cost of revenues
+,770,128
+,383,189
+,142,647
+,86,013
+Gross profit
+,196,803
+,30,067
+,61,595
+,30,731
+Operating expenses
+R&D
+SG&A
+,107,171
+
+107,008
+,273,978
+
+150,372
+,208,981
+
+104,102
+,92,996
+
+84,573
+Total operating expenses
+,214,179
+,424,350
+,313,083
+,177,569
+Loss from operations
+,-17,376
+,-394,283
+,-251,488
+,-146,838
+Tesla Motors
+Source: Casewriter estimates based on Tesla Motors, August 9 2013, 10Q, (Palo Alto, CA), files.shareholder.com/downloads/ABEA-4CW8X0/2498579025x0xS1193125%2013%2D327916/1318605/filing.pdf, accessed August 12, 2013.
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 17 ---
+Tesla Motors
+Exhibit 13 Assets on Balance Sheet Tesla Motors (in US$ thousand)
+,Jun-13
+,,Dec-12
+Cash and cash equivalents
+
+Restricted cash
+,746,057
+
+1,362
+,,201,890
+19,094
+Accounts receivable
+,113,544
+,,26,842
+Inventory
+,254,891
+,,268,504
+Prepaid expenses and other current assets
+Total current assets
+,13,688
+
+1,129,542
+,,8,438
+
+524,768
+Operating lease vehicles, net
+Property, plant and equipment, net
+,131,468
+
+595,579
+,,10,071
+
+552,229
+Restricted cash
+,7,059
+,,5,159
+Other assets
+,24,196
+,,21,963
+Total assets
+,1,887,844
+,,1,114,190
+Invested Capital
+,1,401,299
+,,575,082
+Detail on Property, Plant, and Equipment
+Machinery, equipment and office furniture
+,267,979
+,,223,745
+Tooling
+,211,793
+,,172,584
+Building and building improvements
+,59,910
+,,50,574
+Leasehold improvements
+,58,492
+,,39,224
+Land
+,28,886
+,,26,391
+Computer equipment and software
+,26,402
+,,22,125
+Construction in progress
+,37,082
+,,75,129
+,690,544
+,,609,772
+Less: Accumulated depreciation and amortization
+,-94,965
+,,-57,543
+Total
+,595,579
+,,552,229
+Note: Tesla's 2013 pre-tax WACC was estimated to be around
+,17.3% (Source: Casewriter analysis based on
+Bloomberg).
+Source: Tesla Motors, August 9 2013, 10Q, (Palo Alto, CA), files.shareholder.com/downloads/ABEA-4CW8X0/2498579025x0xS1193125%2013%2D327916/1318605/filing.pdf, accessed August 12, 2013.
+¹⁷ 714-413
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 18 ---
+¹⁸
+714-413
+Tesla Motors
+Exhibit 14 Income Statement and Invested Capital BMW Group, excluding financial services (in million Euros)
+,2012
+,2011
+Revenues
+,57,293
+,51,306
+Cost of revenues
+,40.377
+,35,653
+Manufacturing costsᵃ
+
+Warranty expenditure
+,37,648
+
+1,200
+,33,594
+918
+Other cost of sales
+,1,529
+,1,141
+Gross profit
+,16,916
+,15,653
+Operating expenses
+R&D
+,3,993
+,3,610
+$SG&A^{b}$
+,6,369
+,5,775
+Total operating expenses
+,10,362
+,9,385
+Operating Profit
+,6,554
+,6,268
+Net income (loss)
+,4,107
+,4,301
+Invested Capital
+,16,880
+,14,883
+Source: Casewriter estimates based of BMW Group "Annual Report 2012," BMW Group. Note: BMW's 2012 pre-tax WACC was estimated to be around 12% (Source: BMW annual report). ᵃ Manufacturing costs included 2,298 and 2,324 mln Euros in depreciation and amortization of property, plant, and equipment, on a total of 13,053 and 11,444 mln Euros in property, plant, and equipment assets. ᵇSG&amp;A includes marketing, advertising, sales personnel, and expenses for administration not attributable to development, production, or sales. Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 19 ---
+Tesla Motors
+Endnotes
+714-413
+1 Elon Musk, twitter.com/elonmusk, March 31, 2013, accessed on May 21, 2013.
+2 Kevin Bulls, " Even Without Accounting Gimmicks, Electric-Car Maker Tesla is Now Profitable," MIT Technology Review website, May 8 2013, http://www.technologyreview.com/view/514706/even-without-accounting-gimmicks-electric-car-maker-tesla-is-now-profitable/, accessed June 8, 2013.
+3 R.D. White, " Tesla Model S outsells Volt, Leaf, but Musk has other priorities," LA Times website, April 26, 2013, http://articles.latimes.com/2013/apr/26/autos/la-fi-hy-tesla-model-s-outsold-chevy-volt-nissan-leaf-20130426, accessed June 8, 2013.
+4 P. Valdes-Dapena, "Tesla sales beating Mercedes, BMW and Audi," CnnMoney website, May 13, 2013, http://money.cnn.com/2013/05/13/autos/tesla-sales-bmw-mercedes-audi/index.html, accessed June 8, 2013.
+5 Kevin Bulls, " Even Without Accounting Gimmicks, Electric-Car Maker Tesla is Now Profitable," MIT Technology Review website, May 8 2013, http://www.technologyreview.com/view/514706/even-without-accounting-gimmicks-electric-car-maker-tesla-is-now-profitable/, accessed June 8, 2013.   
+6 Tesla Motors, "Stock quote", Tesla Motors website, http://ir.teslamotors.com/stockquote.cfm, accessed July 31, 2013.
+7 James O'Toole, "Electric-car maker Coda files for bankruptcy," CNNMoney website, May 1 2013, http://money.cnn.com/2013/05/01/autos/electric-car-coda-bankrupcty/index.html, accessed August 1 2013.
+8 Elon Musk, "The Secret Tesla Motors Master Plan (just between you and me)," Tesla Motors blog, August 2, 2006, www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me, accessed August 12, 2013.
+9 Jeremy Hsu, "Why America's Love Affair with Cars is no Accident," Scientific American, May 2012, www.scientificamerican.com/article.cfm?id=why-americas-love-affair-cars-no-accident, accessed July 31, 2013.
+10 Oak Ridge National Laboratory, Transportation Energy Data Book, Edition 32, Chapter 8, July 2013, http://cta.ornl.gov/data/chapter8.shtml, accessed July 31 2013.
+11 Ibid and U.S. Department of Transportation, Federal Highway Administration, 2009 National Household Travel Survey, data extraction tool on http://nhts.ornl.gov, accessed June 8, 2013.   
+12 Ibid. 13 Center for Automotive Research, "Contribution of the Automobile Industry to the Economies of all Fifty States and the United States," CAR, Ann Arbor Michigan, April 2010, http://mpcms.blob.core.windows.net/6864e884-8313-4d1f-9768-696c824cfd60/docs/ffbdcd18-ed82-4a48-8e31-f580b90a8e2e/car-contribution-of-auto-industy-to-50-states.pdf, accessed July 30, 2013.   
+14 Rosen, J.S. and K.N. DuBord, "State of the US Motor Vehicle Industry: 2012", Briefing Research, February 2012, http://www2.briefing.com/Marketing/includes/state-of-the-us-motor-vehicle-industry-2012.pdf, accessed July 31, 2013; James Brock, The Structure of American Industry, Long Grove, ILL.: Waveland Press, 2013.   
+15 General descriptions of car design can be found in B. Heissing and M. Ersoy, Chassis Handbook (Springer Verlag, Berlin, 2011) or S.K. Saxena, Automobile Engineering (Laxmi Publications, 2009).   
+16 Toyota Motor Corporation. "How many parts is each car made of?," Toyota website, http://www2.toyota.co.jp/en/kids/faq/entry/6203.php, accessed on June 8, 2013.   
+17 Autos.com. " What is the Usual RPM Range for Cars?" Autos.com website, http://www.autos.com/auto-repair/what-is-the-usual-rpm-range-for-cars, accessed on June 8, 2013.   
+18 Terry Shea, "Why does it cost so much for automakers to develop new models?" Translogic, AOLAutos, July 27 2010, http://translogic.aolautos.com/2010/07/27/why-does-it-cost-so-much-for-automakers-to-develop-new-models/, accesssed July 31 2013; Alex Taylor, "Ford's $6 billion baby," Fortune, June 28 1993, http://money.cnn.com/magazines/fortune/fortune_archive/1993/06/28/78013/, accessed July 31 2013.   
+19 Toyota, "Toyota Begins Corolla Production in Mississippi," Toyota website, http://pressroom.toyota. com/releases/toyota+begins+corolla+production+mississippi.htm, accessed August 1, 2013; The Economist, "Incredible shrinking plants," The Economist, February 2002, http://www.economist.com/node/998509, accessed August 1, 2013; BMW, ¹⁹ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 20 ---
+714-413
+Tesla Motors
+"Production Overview," BMW website, https://www.bmwusfactory.com/manufacturing/production-overview/?r=1370539387217#process, accessed August 1, 2013.
+20 General descriptions of car manufacturing can be found in Cathy Walker, "Auto Assembly Plant," http://www.slideshare.net/cathywalker856/auto-assembly-plant-layout-cathy-walker-2010-3-15, accessed August 2, 2013 or US EPA, "Profile of the Motor Vehicle Assembly Industry," Office of Enforcement and Compliance Assurance, US EPA, September 1995, http://www.epa.gov/compliance/resources/publications/assistance/sectors/notebooks/motvehsn.pdf, accessed August 2, 2013.
+21 James P. Womack et al., "The Machine that Changed the World," Harper Perennial, November 1991.
+22 We-Min Chow, "Assembly Line Design," CRC Press, 1990.
+23 Johannes Van Biesebroeck, "The cost of flexibility," Assembly Automation, 2007, vol. 27 no. 1.   
+24 Hans Cheong, "Toyota opens Brazilian plant for Etios, Indonesia next?" CBTonline, August 10, 2012, http://www.cbt.com.my/2012/08/10/toyota-opens-brazilian-plant-for-etios-indonesia-next/, accessed August 2, 2013; and Adrienne Selko, "Toyota opens new plant in Thailand to meet demand," Industry Week, January 20, 2012, http://www.industryweek.com/industry-clusters/toyota-opens-new-plant-thailand-meet-demand, accessed August 2, 2013. 25 Steven D. Levitt et al., "Toward an Understanding of Learning by Doing: Evidence from an Automobile Assembly Plant," University of Chicago Working Paper, April 2013, http://faculty.chicagobooth.edu/chad.syverson/research/learningbydoing.pdf, accessed August 2, 2013.   
+26 Johannes Van Biesebroeck, "The cost of flexibility," Assembly Automation, 2007, vol. 27 no. 1.   
+27 Patricia Laya, " Do You Pay Enough For Advertising? One Big Corporation Spent A Jaw-Dropping $4.2 Billion Last Year," Business Insider website, http://www.businessinsider.com/corporations-ad-spending-2011-6?op=1, accessed June 8 2013, and Jeremiah McWilliams, " Coca-Cola spent more than $2.9 billion on advertising in 2010," The Atlanta Journal-Constitution website, 2013. http://www.ajc.com/news/business/coca-cola-spent-more-than-29-billion-on-advertisin/nQq6X/, accessed June 8,
+28 Interbrand, "Best Global Brands 2012," Interbrand, October 2012, http://www.interbrand.com/en/best-global-brands/2012/Best-Global-Brands-2012.aspx, accessed May 26, 2013.
+29 A general description of car dealerships can be found in Garth Saloner et al., "Disintermediation in the US auto industry," Stanford Business School Case EC-10, February 2000.
+30 John Hagel III and Marc Singer, "Unbundling the Corporation," Harvard Business Review, March-April 1999, pp. 133-141.   
+31 Jeffrey Archer, "For first time, Ford tops Chevy in number of US dealers," Autotrader.com, February 2011, http://www.autotrader.com/research/article/new-research/79318/for-first-time-ford-tops-chevy-in-number-of-us-dealers.jsp, accessed August 2, 2013.
+32 Ph. Reed and R. Montoya, "Stop Changing Your Oil," Edmunds.com website, August 2010, http://www.edmunds.com/car-care/stop-changing-your-oil.html, accessed June 8, 2013.
+33 Jeanine Skowronski, "10 Most Common Car Repairs," Mainstreet.com on Yahoo! Autos, October 25 2011, http://autos.yahoo.com/news/10-most-common-car-repairs.html?page=all, accessed August 2, 2013; and Allen B. Ury, "The 10 Most Common Auto Repairs," news.yotech.edu, April 19 2011, http://news.wyotech.edu/post/2011/04/10-most-common-auto-repairs, accessed August 2, 2013.   
+34 General descriptions of electric cars and their history can be found in Debra Schifrin and Robert Burgelman, "The growth of the electric vehicle industry," Stanford Business School Case, SM193, August 2011.
+35 Daven Hinskey, "The first speeding infraction in the US was committed by a New York City taxi driver in an electric car on May 20, 1899," www.todayifoundout.com, May 20 2011, http://www.todayifoundout.com/index.php/2011/05/the-first-speeding-infraction-in-the-u-s-was-committed-by-a-new-york-city-taxi-driver-in-an-electric-car-on-may-20-1899/, accessed August 4, 2013.
+36 Mike Ramsey, "Nissan Says Leaf Electric Will Be Profitable With U.S. Plant," Wall Street Journal, March 13, 2010, http://online.wsj.com/article/SB10001424052748704635204575242382820806878.html, accessed August 4 2013; Kevin Bullis, "How Improved Batteries Will Make Electric Vehicles Competitive," MIT Technology Review, http://www.technologyreview.com/news/506881/how-improved-batteries-will-make-electric-vehicles-competitive/, accessed August 4, 2013. ²⁰ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 21 ---
+Tesla Motors
+714-413
+37 Jim Motavalli, "Tesla Model S: One Whopper of a Battery Pack," wheels.blogs.nytimes.com, August 25 2009, http://wheels.blogs.nytimes.com/2009/08/25/tesla-model-s-one-whopper-of-a-battery-pack/?_r=0, accessed August 4 2013; and Yahoo Answers, "How much do car engines and transmissions weigh?" answers.yahoo.com, http://answers.yahoo.com/question/index?qid=20080508232228AAH4DUR, accessed August 4, 2013.   
+38 Danny King, "Lithium ion battery 'overcapacity' could arrive by 2015, would push prices way down", autobloggreen, April 2012, http://green.autoblog.com/2012/05/07/lithium-ion-battery-overcapacity-could-arrive-by-2015-would-p/, accessed May 26, 2013.
+39 Haresh Kamath, "Lithium Ion Batteries for Electric Transportation: Costs and Markets," September 2009, EPRI, p. 9, http://www.arb.ca.gov/msprog/zevprog/2009symposium/presentations/kamath.pdf, accessed May 26, 2013.   
+40 Ibid.
+41 Phil Berg, "8 Potential EV and Hybrid Battery Breakthroughs," Popular Mechanics, February 2012, http://www.popularmechanics.com/cars/news/fuel-economy/8-potential-ev-and-hybrid-battery-breakthroughs#slide-1, accessed May 26 2013.
+42 US DOE, "California Zero-Emission Vehicle Mandate is now in Effect," US Department of Energy, March 18, 2013, http://www1.eere.energy.gov/vehiclesandfuels/facts/2013_fotw771.html; and Mark Rechtin, "Tesla profits could be challenged by California credit-rule change," Automotive News, August 5 2013, http://www.autonews.com/article/20130805/OEM11/308059945/credit-rule-change-could-crimp-tesla-profits, accessed August 7, 2013.   
+43 Governor's Interagency Working Group on Zero-emission Vehicles, "ZEV Action Plan," opr.ca.gov, February 2013, http://opr.ca.gov/docs/Governor's_Office_ZEV_Action_Plan_(02-13).pdf, p. 6, accessed August 12, 2013.   
+44 Sam Shrank, "Hurdles to EV adoption: Reaching the other 98%," LRN.com, November 7, 2011, http://www.lrn.com/making-waves-blog/hurdles-ev-adoption-reaching-other-98, accessed August 7, 2013.
+45 US DOE, "Electric Vehicle Charging Stations Locations," US Department of Energy, http://www.afdc.energy.gov/fuels/electricity_locations.html, accessed August 7, 2013.
+46 Jeff Cobb, "First Tesla Superchargers Open October 19," hybridcars.com, October 12 2012, http://www.hybridcars.com/tesla-superchargers-open-october-19-53925/, accessed November 1, 2013, and Nick Chamger, "Nissan LEAF will include fast charge capability and emergency charging cable at launch," Gas2.org, http://gas2.org/2010/05/27/nissan-leaf-will-include-fast-charge-capability-and-emergency-charging-cable-at-launch/accessed November 1, 2013.
+47 Ashlee Vance, "Tesla, Fully Charged," Bloomberg Businessweek, July 22, 2013, pp. 48-52. 48 Ibid.   
+49 Unless otherwise noted, this section is based on Debra Schifrin and Robert A. Burgelman, "Nissan's electric vehicle strategy in 2011: Leading the way toward zero-emission," Stanford GSB Case SM-189, June 16, 2011.
+50 Debra Schifrin and Robert A. Burgelman, op. cit.   
+51 David Bailey, " Nissan: Electric cars could shed government aid in four years," Reuters.com, May 26, 2010, http://www.reuters.com/article/2010/05/26/us-nissan-plant-idUSTRE64P5PY20100526, accessed August 8, 2013; Sam Abuelsamid, "Nissan to build Leaf electric vehicle at British factory from 2013," https://www.google.com/search?q=green.autoblog.com, March 18, 2010, http://green.autoblog.com/2010/03/18/nissan-to-build-leaf-electric-vehicle-at-british-factory-from-20/, accessed August 8 2013.   
+52 Debra Schifrin and Robert A. Burgelman, op. cit.   
+53 Ibid.
+54 Andreas Dinger et al., "Batteries for Electric Cars," The Boston Consulting Group, January 2010.
+55 Doug Demuro, "2013 Nissan Leaf Gets New Battery Warranty," autotrader.com, January 31, 2013, http://www.autotrader.com/research/article/car-news/201645/2013-nissan-leaf-gets-new-battery-warranty.jsp, accessed August 8, 2013. ²¹ Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 22 ---
+²²
+714-413
+Tesla Motors
+56 Matthew L. Wald, "Nissan Will Sell 500,000 Electric Cars a Year by 2013, Says Chief, "Wheels blog nytimes.com, November 16, 2010, r=0, accessed August 8, 2013.
+57 Ibid. 58 Nick Jaynes, "Heads roll at Nissan as Leaf sales fail to reach half the projected goals,"digitaltrends.com, March 12, 2013, http://www.digitaltrends.com/cars/heads-roll-at-nissan-as-leaf-sales-fail-to-reach-half-the-projected-goals/, accessed August 8, 2013.   
+Production Starts in Tennessee," Automobile Magazine, January 9, 2013, 59 Ben Timmins, "Nissan Updates Leaf EV for 2013; http://rumors.automobilemag.com/nissan-updates-leaf-ev-for-2013-production-starts-in-tennessee-195709.html#axzz2J6Ulj7d2, accessed November 1, 2013..   
+60 Chris Tutor, "Nissan Leaf becomes least expensive 5-seat EV with massive price drop," autoblog.com, January 14, 2013, http://www.autoblog.com/2013/01/14/nissan-leaf-becomes-least-expensive-5-seat-ev-with-massive-price/, accessed August 8, 2013.
+61 AP, "GM knocks 13 percent off Volt price to compete with Nissan Leaf, others in electric car fight," washingtonpost.com, v.washingtonpost.com/business/technology/gm-knocks-125-percent-off-volt-price-to-compete-in-August 6, 2013, http://www.washingtonpost.com/electric-car-fight/2013/08/05/5cdb3c78-fe1c-11e2-8294-0ee5075b840d_story.html, accessed August 8, 2013; and Debra Schifrin and Robert A. Burgelman op. cit.   
+62 Joann Muller, "The Next Detroit," forbes.com, May 21, 2009, http://www.forbes.com/forbes/2009/0608/070-automakers-fisker-karmas-the-next-detroit.html, accessed August 12, 2013.
+63 Danny King, "Fisker hires bankruptcy team after worker furlough," Autoblog Green, March 31, 2013, http://green.autoblog.com/2013/03/31/fisker-hires-bankruptcy-team-after-worker-furlough/, accessed August 13, 2013.
+64 Biographical information about Elon Musk comes from TeslaRumors, "How Tesla Began," https://www.google.com/search?q=Teslarumors.com, http://teslarumors.com/HowTesla Began, accessed August 16, 2013.
+65 Ashlee Vance, "Tesla, Fully Charged," Bloomberg Businessweek, July 22, 2013, pp. 48-52. 66 David Welch, "Tesla: A Carmaker With Silicon Valley Spark," Bloomberg Businessweek, July 29, 2007, http://www.businessweek.com/stories/2007-07-29/tesla-a-carmaker-with-silicon-valley-spark, accessed August 12, 2013.   
+67 Martin Eberhard, "Lotus Position," July 25, 2006, post on blog "Teslamotors blog," http://www.teslamotors.com/blog/lotus-position, accessed August 10, 2013.
+68 Zero to 60 Times, "Ferrari," zeroto60times.com, http://www.zeroto60times.com/Ferrari-0-60-mph-Times.html, accessed August 16, 2013.
+69 Warren Brown, "A Jaw-dropping Ride, Batteries Included," washingtonpost.com, January 25 2009, http://www.washingtonpost.com/wp-dyn/content/article/2009/01/23/AR2009012301591.html, accessed November 1, 2013, and Kim Reynolds, "First Drive: 2008 Tesla Roadster," Motor Trend, March 2008, http://www.motortrend.com/roadtests/alternative/112_0803_2008_tesla_roadster/, accessed November 1, 2013.
+70 Shane McGlaun, "As Tesla Gears up for Model S Production, Roadster Production Ends," https://www.google.com/search?q=Dailytech.com, June 24 2011, dailytech.com/As+Tesla+Gears+up+for+Model+S+Production+Roadster+Production+Ends/article22003.htm, accessed August 9, 2013.
+71 Shane McGlaun, "Tesla and Panasonic Team Up on Batteries for Roadster, Model S," https://www.google.com/search?q=Dailytech.com, January 8, 2010, www.dailytech.com/Tesla+and+Panasonic+Team+Up+on+Batteries+for+Roadster+Model+S/article17346.htm, accessed August 9, 2013.   
+72 Jeff Moad, "Tesla Plugs in Reconfigured Outsourcing Strategy," https://www.google.com/search?q=managingautomation.com, October 22, 2010, http://blog.managingautomation.com/channel/2010/10/tesla-plugs-in-reconfigured-outsourcing-strategy/, accessed August 11, 2013.
+73 Chris Woodyard, "Tesla stops taking electric roadster orders this summer," usatoday.com, June 26 2011, http://content.usatoday.com/communities/driveon/post/2011/06/tesla-stops-taking-electric-roadster-orders-this-summer/1#.UnPzJKXdK-Q, accessed November 1, 2013. Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 23 ---
+Tesla Motors
+74 Jason Slu, "Tesla Roadster Successor Not a Guarantee," Autoguide.com, November 5 2012, www.autoguide.com/auto-news/2012/11/tesla-roadster-successor-not-a-guarantee.html, accessed August 10, 2013.
+/www.edmunds.com/tesla/model-s/2013/and 75 Edmunds new car reviews for 2013 Nissan Leaf and Tesla S, http://www.edmunds.com/t http://www.edmunds.com/nissan/leaf/2013/, accessed August 4, 2013. BMW, "Technical data," BMW website for 520i, www.bmw.com/com/en/newvehicles/5series/sedan/2013/showroom/technical_data/index.html, accessed August 10, 2013.
+76 This estimate is based Tesla's R&amp;D expenses over the 2007-2012 period and taking into account that R&amp;D was also working on other projects, including the Roadster and powertrain projects. 77 Benji Jerew, "Tesla Motors could double global demand for Panasonic 18650 Lithium-Ion cells," greenoptimistic.com, September 5 2013, http://www.greenoptimistic.com/2013/09/05/tesla-motors-double-global-demand-panasonic-18650-lithium-ion-cells/#.UnP1SqXdK-Q, accessed November 1, 2013.   
+78 Jeff Cobb, " GM R&amp;D Boss Hints At Tesla-Surpassing Batteries," Hybridcars.com, June 6, 2013, http://www.hybridcars.com/gm-rd-boss-hints-at-tesla-surpassing-batteries/, accessed August 10, 2013.
+79 This estimate is based on an analysis of different sources, considering experience curves: Thomas Fisher, "What goes into a Tesla Model S battery - and what it may cost," greencarreports.com, June 11, 2013, http://www.greencarreports.com/news/1084682_what-goes-into-a-tesla-model-s-battery-and-what-it-may-cost, accessed August 10, 2013; Kevin Krolicki et al. "Toyota see Tesla EV battery cost at 1/3," Reuters, January 11, 2011, " http://www.reuters.com/article/2011/01/11/retire-us-autoshow-toyota-idUSTRE70A4QY20110111, accessed August 10, 2013; Charles J. Murray, "Tesla engineer boosts EV range to new heights," designnews.com, July 30, 2011, http://www.designnews.com/document.asp?doc_id=228520&amp;dfpPParams=aid_228520&amp;dfpLayout article, accessed August 10, 2013; and Domenick Yoney, "Battery cost dropping below $200 per KWh soon, says Tesla's Elon Musk," investorvillage.com, February 21, 2012, http://www.investorvillage.com/smbd.asp?mb=16468&amp;mn=15&amp;pt=msg&amp;mid=11572748, accessed August 10, 2013.   
+80 Tesla Motors, "Features," Tesla Motors website, www.teslamotors.com/models/features, accessed August 10, 2013.
+81 Unless otherwise noted: Tesla Motors, "Features" and John Rettie, "2012 Model S," Road & Track, June 22, 2012, http://www.roadandtrack.com/car-reviews/first-drives/2012-tesla-model-s, accessed August 12, 2013.
+82 Ashlee Vance, "Tesla, Fully Charged," Bloomberg Businessweek, July 22, 2013, pp. 48-52.   
+83 Chuck Squatriglia, "Tesla Wants Some Engineering Cred," wired.com, January 6, 2011, http://www.wired.com/autopia/2011/01/tesla-wants-some-engineering-cred, accessed August 11, 2013.
+84 Ashlee Vance, "Tesla, Fully Charged," Bloomberg Businessweek, July 22, 2013, pp. 48-52; Simon Erickson, "Does Tesla Motors have a competitive advantage?" fool.com, October 8 2012, http://beta.fool.com/txinvestor82/2012/10/08/does-tesla-motors-have-competitive-advantage/12613/, accessed August 10, 2013.   
+85 Eric Jackson, "Why Tesla is the next Webvan," thestreet.com, August 18, 2010, http://www.thestreet.com/story/10838464/2/why-tesla-is-the-next-webvan.html, accessed August 10, 2013; Electric-vehiclenews.com, "Who will manufacture the Tesla Model S?" electric-vehiclenews.com, October 26 2009, http://www.electric-vehiclenews.com/2009/10/who-will-manufacture-tesla-model-s.html, accessed August 10, 2013.   
+86 Jake Holmes, "Tesla partners with Toyota, will build electric vehicles at NUMMI plant in California," caranddriver.com, May 21, 2010, http://blog.caranddriver.com/tesla-partners-with-toyota-will-build-electric-vehicles-at-nummi-plant-in-california/, accessed August 10, 2013.
+87 Frank Markus, "Temple of Tesla: Touring Elon's Factory," motortrend.com, June 28, 2012, http://www.motortrend.com/features/consumer/1206_temple_of_tesla_touring_elons_factory/, accessed August 11, 2013.
+88 Mark Rechtin, "Tesla: Factory on track for 2012 Model S launch," autoweek.com, June 1, 2011, http://www.autoweek.com/article/20110601/CARNEWS/110609988, accessed August 11, 2013.
+89 Alan Ohnsman, "Tesla Motors Cuts Factory Cost to Try to Generate Profit," Bloomberg.com, April 12, 2012, http://www.bloomberg.com/news/2012-04-12/tesla-motors-cuts-factory-cost-to-try-to-generate-profit.html, accessed August 11, 2013.
+90 Frank Markus, "Temple of Tesla: Touring Elon's Factory," motortrend.com, June 28, 2012, http://www.motortrend.com/features/consumer/1206_temple_of_tesla_touring_elons_factory/, accessed August 11, 2013. ²³ 714-413   
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+--- PAGE 24 ---
+²⁴
+714-413
+Tesla Motors
+91 Elon Musk, "The Tesla Approach to Distributing and Servicing Cars," Blog of Tesla Motors, October 22, 2012, www.teslamotors.com/blog/tesla-approach-distributing-and-servicing-cars, accessed August 12, 2013.
+92 Amy Wilson, "Musk says Texas dealers 'unjust' in preventing Tesla stores," Autmotive news, April 10, 2013, http://www.autonews.com/article/20130410/RETAIL07/130419989/musk-says-texas-dealers-unjust-in-preventing-tesla-stores#, accessed August 12, 2013; and Melissa Grey, "Tesla wins in North Carolina, paves the way for direct-to-consumer sales, "engadget.com, June 27 2013, http://www.engadget.com/2013/06/27/tesla-victory-north-carolina/, accessed August 12, 2013.   
+93 Tesla Motors, "Features," and "Top 5 Questions," Tesla Motors website, www.teslamotors.com/models/features and www.teslamotors.com/ amotors.com/goelectric, accessed August 12, 2013.
+94 Automobilemag.com, "2013 Tesla Model S," and "2013 BMW 5-Series," automobilemag.com, and http://www.automobilemag.com/am/99/2013/tesla/model_s/base_sedan/341/ownership_costs.htmlhttp://www.automobilemag.com/am/2013/bmw/5_series/, accessed August 11, 2013; https://www.google.com/search?q=Teslarumors.com, "5-Year Cost of Ownership: Tesla Model S vs BMW," https://www.google.com/search?q=Teslarumors.com, http://teslarumors.com/Teslanomics-BMW.html, accessed August 11, 2013. The estimate is based on a corrected version of the TCO in Autmobilemag. 95 Tesla Motors, "Service Plans," Tesla Motors website, http://www.teslamotors.com/service, accessed August 12, 2013.   
+96 Ashlee Vance, "Tesla, Fully Charged," Bloomberg Businessweek, July 22, 2013, pp. 48-52. 97 Tesla Motors, March 7, 2013, 10K 2012, http://ir.teslamotors.com/secfiling.cfm?filingID=1193125-13-96241&amp;CIK=1318605, p. 47.   
+98 Alan Ohnsman, "Tesla Jumps on Early Sedan Debut, Daimler Supply Deal," Bloomberg.com, May 10, 2012, http://www.bloomberg.com/news/2012-05-09/tesla-loss-widens-as-roadster-ends-model-s-due-in-june.html, accessed August 12, 2013.
+99 Brooke Crothers, "Tesla CEO talks Model X, Gen 3, new markets," Cnet.com, August 7 2013, http://news.cnet.com/8301-1001 3-57597514-92/tesla-ceo-talks-model-x-gen-3-new-markets/, accessed August 12 2013.
+100 Tesla Motors, "Model X," Tesla Motors website, http://www.teslamotors.com/modelx, accessed August 12, 2013.
+101 Tesla Motors, 10K 2012, p. 7.   
+102 Elon Musk, "The Secret Tesla Motors Master Plan (just between you and me)," Tesla Motors blog, August 2, 2006, http://www.teslamotors.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me, accessed August 12, 2013. 103 Brooke Crothers, "Tesla CEO talks Model X, Gen 3, new markets," Cnet.com, August 7 2013, http://news.cnet.com/8301-1001_3-57597514-92/tesla-ceo-talks-model-x-gen-3-new-markets/, accessed August 12, 2013.
+Authorized for use only in the course SGMA 591 L01 at University of Calgary taught by PENGFEI LI from 5/5/2025 to 6/17/2025. Use outside these parameters is a copyright violation.   
+
